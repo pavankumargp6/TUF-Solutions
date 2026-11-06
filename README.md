@@ -6,19 +6,20 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **3** | 1 | 2 | 0 | `2026-11-06` |
+| **4** | 2 | 2 | 0 | `2026-11-06` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (3)
+### DSA (4)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Backspace Editor](./DSA/Week-2/backspace-editor) | [CPP](./DSA/Week-2/backspace-editor/solution.cpp) | 🟢 Easy | `Week-2` | `2026-11-06` |
 | 0002 | [Balanced Paranthesis](./DSA/Week-2/balanced-paranthesis) | [CPP](./DSA/Week-2/balanced-paranthesis/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
-| 0003 | [Two Stacks, One Storage](./DSA/Week-2/two-stacks-one-storage) | [CPP](./DSA/Week-2/two-stacks-one-storage/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
+| 0003 | [Cancel Adjacent Pairs](./DSA/Week-2/cancel-adjacent-pairs) | [CPP](./DSA/Week-2/cancel-adjacent-pairs/solution.cpp) | 🟢 Easy | `Week-2` | `2026-11-06` |
+| 0004 | [Two Stacks, One Storage](./DSA/Week-2/two-stacks-one-storage) | [CPP](./DSA/Week-2/two-stacks-one-storage/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
 
 ---
 
