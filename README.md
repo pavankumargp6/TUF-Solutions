@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **9** | 2 | 7 | 0 | `2026-11-06` |
+| **10** | 2 | 8 | 0 | `2026-11-06` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (9)
+### DSA (10)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -24,7 +24,8 @@
 | 0006 | [Postfix Calculator](./DSA/Week-2/postfix-calculator) | [CPP](./DSA/Week-2/postfix-calculator/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
 | 0007 | [Prefix Calculator](./DSA/Week-2/prefix-calculator) | [CPP](./DSA/Week-2/prefix-calculator/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
 | 0008 | [Two Stacks, One Storage](./DSA/Week-2/two-stacks-one-storage) | [CPP](./DSA/Week-2/two-stacks-one-storage/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
-| 0009 | [Validate Stack Output](./DSA/Week-2/validate-stack-output) | [CPP](./DSA/Week-2/validate-stack-output/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
+| 0009 | [Undo and Redo](./DSA/Week-2/undo-and-redo) | [CPP](./DSA/Week-2/undo-and-redo/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
+| 0010 | [Validate Stack Output](./DSA/Week-2/validate-stack-output) | [CPP](./DSA/Week-2/validate-stack-output/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
 
 ---
 
