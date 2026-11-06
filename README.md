@@ -6,18 +6,19 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 1 | 1 | 0 | `2026-11-06` |
+| **3** | 1 | 2 | 0 | `2026-11-06` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (2)
+### DSA (3)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Backspace Editor](./DSA/Week-2/backspace-editor) | [CPP](./DSA/Week-2/backspace-editor/solution.cpp) | 🟢 Easy | `Week-2` | `2026-11-06` |
-| 0002 | [Two Stacks, One Storage](./DSA/Week-2/two-stacks-one-storage) | [CPP](./DSA/Week-2/two-stacks-one-storage/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
+| 0002 | [Balanced Paranthesis](./DSA/Week-2/balanced-paranthesis) | [CPP](./DSA/Week-2/balanced-paranthesis/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
+| 0003 | [Two Stacks, One Storage](./DSA/Week-2/two-stacks-one-storage) | [CPP](./DSA/Week-2/two-stacks-one-storage/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
 
 ---
 
