@@ -6,21 +6,22 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **5** | 2 | 3 | 0 | `2026-11-06` |
+| **6** | 2 | 4 | 0 | `2026-11-06` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (5)
+### DSA (6)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Backspace Editor](./DSA/Week-2/backspace-editor) | [CPP](./DSA/Week-2/backspace-editor/solution.cpp) | 🟢 Easy | `Week-2` | `2026-11-06` |
 | 0002 | [Balanced Paranthesis](./DSA/Week-2/balanced-paranthesis) | [CPP](./DSA/Week-2/balanced-paranthesis/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
 | 0003 | [Cancel Adjacent Pairs](./DSA/Week-2/cancel-adjacent-pairs) | [CPP](./DSA/Week-2/cancel-adjacent-pairs/solution.cpp) | 🟢 Easy | `Week-2` | `2026-11-06` |
-| 0004 | [Two Stacks, One Storage](./DSA/Week-2/two-stacks-one-storage) | [CPP](./DSA/Week-2/two-stacks-one-storage/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
-| 0005 | [Validate Stack Output](./DSA/Week-2/validate-stack-output) | [CPP](./DSA/Week-2/validate-stack-output/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
+| 0004 | [Infix to Postfix Conversion](./DSA/Week-2/infix-to-postfix-conversion) | [CPP](./DSA/Week-2/infix-to-postfix-conversion/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
+| 0005 | [Two Stacks, One Storage](./DSA/Week-2/two-stacks-one-storage) | [CPP](./DSA/Week-2/two-stacks-one-storage/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
+| 0006 | [Validate Stack Output](./DSA/Week-2/validate-stack-output) | [CPP](./DSA/Week-2/validate-stack-output/solution.cpp) | 🟡 Medium | `Week-2` | `2026-11-06` |
 
 ---
 
